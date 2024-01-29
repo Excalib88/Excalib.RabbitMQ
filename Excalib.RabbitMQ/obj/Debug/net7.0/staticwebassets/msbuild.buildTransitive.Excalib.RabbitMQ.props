@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Excalib.RabbitMQ.props" />
+</Project>
